@@ -1,0 +1,74 @@
+\contentsline {chapter}{\numberline {1}Finite Difference Methods}{9}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}On the formulation of finite difference analogues of the Dirichlet problem for Poisson's equation (1962)}{9}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Fourth-order finite difference analogues of the Dirichlet problem for Poisson's equation in three and four dimensions (1963)}{27}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}New monotone type approximations for elliptic problems (1964)}{34}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}On a finite difference analogue of an elliptic boundary problem which is neither diagonally dominant nor of non-negative type (1964)}{54}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Approximation of solutions of mixed boundary value problems for Poisson's equation by finite differences (1965)}{71}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}A finite difference analog of the Neumann problem for Poisson's equation (1965)}{83}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}A second order finite difference analog of the first biharmonic boundary value problem (1966)}{98}{section.1.7}% 
+\contentsline {section}{\numberline {1.8}Error estimates for difference methods in forced vibration problems (1966)}{113}{section.1.8}% 
+\contentsline {section}{\numberline {1.9}On the convergence of difference approximations to weak solutions of Dirichlet's problem (1969)}{126}{section.1.9}% 
+\contentsline {chapter}{\numberline {2}Finite element method}{139}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Bramble-Hilbert Lemma (1970)}{139}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Rayleigh-Ritz-Galerkin methods for dirichlet's problem using subspaces without boundary conditions (1970)}{153}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Triangular elements in the finite element method (1970)}{177}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Maximum-norm interior estimates for Ritz-Galerkin methods (1975)}{190}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Estimates for spline projections (1976)}{203}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Single step Galerkin approximations for parabolic problems (1977)}{238}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Some convergence estimates for semidiscrete Galerkin type approximations for parabolic equations (1977)}{269}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Semidiscrete and single step fully discrete approximations for second order hyperbolic equations (1979)}{294}{section.2.8}% 
+\contentsline {section}{\numberline {2.9}Some estimates for a weighted $L^2$ projection (1991)}{322}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}On variational formulations for the Stokes equations with nonstandard boundary conditions (1994)}{337}{section.2.10}% 
+\contentsline {section}{\numberline {2.11}A finite element method for interface problems in domains with smooth boundaries and interfaces (1996)}{356}{section.2.11}% 
+\contentsline {section}{\numberline {2.12}New interpolation results and applications to finite element methods for elliptic boundary value problems (2001)}{387}{section.2.12}% 
+\contentsline {section}{\numberline {2.13}On the stability of the L2 projection in $H^1(\Omega )$ (2002)}{404}{section.2.13}% 
+\contentsline {section}{\numberline {2.14}A proof of the inf--sup condition for the Stokes equations on Lipschitz domains (2003)}{415}{section.2.14}% 
+\contentsline {section}{\numberline {2.15}Using finite element tools in proving shift theorems for elliptic boundary value problems (2003)}{426}{section.2.15}% 
+\contentsline {section}{\numberline {2.16}Super-convergence}{457}{section.2.16}% 
+\contentsline {subsection}{\numberline {2.16.1}Higher order local accuracy by averaging in the finite element method (1977)}{457}{subsection.2.16.1}% 
+\contentsline {subsection}{\numberline {2.16.2}A local post-processing technique for improving the accuracy in mixed finite-element approximations (1989)}{476}{subsection.2.16.2}% 
+\contentsline {chapter}{\numberline {3}Multigrid Methods}{487}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}New convergence estimates for multigrid algorithms (1987)}{487}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}The analysis of multigrid algorithms for nonsymmetric and indefinite elliptic problems (1988)}{507}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Parallel multilevel preconditioners (1990)}{534}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}The analysis of multigrid algorithms with nonnested spaces or noninherited quadratic forms (1991)}{557}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}Convergence estimates for multigrid algorithms without regularity assumptions (1991)}{592}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}The analysis of smoothers for multigrid algorithms (1992)}{616}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}New estimates for multilevel algorithms including the V-cycle (1993)}{639}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}The analysis of multigrid algorithms for pseudodifferential operators of order minus one (1994)}{665}{section.3.8}% 
+\contentsline {section}{\numberline {3.9}Uniform convergence of multigrid V-cycle iterations for indefinite and nonsymmetric problems (1994) }{684}{section.3.9}% 
+\contentsline {section}{\numberline {3.10}Uniform Convergence Estimates for Multigrid V-cycle Algorithms with Less than Full Elliptic Regularity (1994)}{704}{section.3.10}% 
+\contentsline {section}{\numberline {3.11}Interpolation between Sobolev spaces in Lipschitz domains with an application to multigrid theory (1995)}{715}{section.3.11}% 
+\contentsline {section}{\numberline {3.12}Multigrid methods for the biharmonic problem discretized by conforming $C^1$ finite elements on nonnested meshes (1995)}{723}{section.3.12}% 
+\contentsline {section}{\numberline {3.13}The analysis of multigrid algorithms for cell centered finite difference methods (1996)}{736}{section.3.13}% 
+\contentsline {section}{\numberline {3.14}Uniform convergence of the multigrid V-cycle for an anisotropic problem (2001)}{752}{section.3.14}% 
+\contentsline {chapter}{\numberline {4}Domain Decomposition Methods}{771}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}The construction of preconditioners for elliptic problems by substructuring. I (1986)}{771}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}The construction of preconditioners for elliptic problems by substructuring. II (1987)}{804}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}The construction of preconditioners for elliptic problems by substructuring. III (1988)}{821}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}The construction of preconditioners for elliptic problems by substructuring. IV (1989)}{838}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}An iterative method for elliptic problems on regions partitioned into substructures (1986)}{863}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}A domain decomposition technique for Stokes problems (1990)}{873}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Convergence estimates for product iterative methods with applications to domain decomposition (1991)}{885}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Domain decomposition methods for problems with uniform local refinement in two dimensions (1991)}{907}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}Domain decomposition methods for problems with partial refinement (1992)}{918}{section.4.9}% 
+\contentsline {section}{\numberline {4.10}Analysis of non-overlapping domain decomposition algorithms with inexact solves (1998)}{934}{section.4.10}% 
+\contentsline {chapter}{\numberline {5}Least-squares Methods}{955}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Least squares methods for 2$m$th order elliptic boundary-value problems (1971)}{955}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}On the numerical solution of elliptic boundary value problems by least squares approximation of the data (1971)}{988}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Semidiscrete least-squares methods for a parabolic boundary value problem (1972)}{1014}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}A generalized Ritz-least-squares method for Dirichlet problems (1973)}{1031}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Least-squares methods for Stokes equations based on a discrete minus one inner product (1996)}{1045}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}A least-squares approach based on a discrete minus one inner product for first order systems (1997)}{1065}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Least-squares for second-order elliptic problems (1998)}{1087}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}A negative-norm least squares method for Reissner-Mindlin plates (1998)}{1112}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}Least-squares methods for linear elasticity based on a discrete minus one inner product (2001)}{1129}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}The approximation of the Maxwell eigenvalue problem using a least-squares method (2005)}{1151}{section.5.10}% 
+\contentsline {section}{\numberline {5.11}A least-squares approximation method for the time-harmonic Maxwell equations (2005)}{1176}{section.5.11}% 
+\contentsline {chapter}{\numberline {6}PML Methods}{1201}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Analysis of a finite PML approximation for the three dimensional time-harmonic Maxwell and acoustic scattering problems (2007)}{1201}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Analysis of a finite element PML approximation for the three dimensional time-harmonic Maxwell problem (2008)}{1220}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Analysis of a finite PML approximation to the three dimensional elastic wave scattering problem (2010)}{1231}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Analysis of a Cartesian PML approximation to acoustic scattering problems in $R^2$ and $R^3$ (2010)}{1255}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Others}{1279}{chapter.7}% 
+\contentsline {chapter}{References}{1281}{chapter*.3}% 
