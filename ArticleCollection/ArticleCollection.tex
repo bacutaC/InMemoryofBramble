@@ -1,0 +1,45 @@
+\documentclass[leqno,labelfig,psfigt,colorlinks]{svmono}
+\input{Xmacros}
+\usepackage{wrapfig}
+\usepackage{bbm}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{cases}
+\usepackage{pdfpages}
+
+
+\graphicspath{{figure/}}
+
+
+\begin{document}
+\title{The Collected Papers of \\\textbf{James H. Bramble}}
+\author{Jinchao Xu and Colleagues}
+\maketitle
+%	
+\tableofcontents
+%\newpage
+
+%\includepdf[pages = -]{Papers/bramble2007analysis.pdf}
+
+\chapter*{Preface}
+In this book, we collect a number of representative papers written by
+James H. Bramble.   Bramble has made fundamental contributions to a
+number of subjects numerical methods for partial differential
+equations, including
+
+
+\input{ArticleCollection/Tex/FDM.tex}
+\input{ArticleCollection/Tex/FEM.tex}
+%\input{ArticleCollection/Tex/SuperC.tex}
+%\chapter{Domain Decomposition Methods}
+\input{ArticleCollection/Tex/MG.tex}
+\input{ArticleCollection/Tex/DDM.tex}
+\input{ArticleCollection/Tex/LS.tex}
+\input{ArticleCollection/Tex/PML.tex}
+\input{ArticleCollection/Tex/Others.tex}
+
+\bibliographystyle{plain}
+\bibliography{ArticleCollection/bramble.bib}
+%\bibliography{bramble-DDM.bib, bramble-FDM.bib, bramble-FEM.bib, bramble-PML.bib, bramble-MG.bib, bramble-LS.bib, bramble-others.bib}
+
+\end{document}
